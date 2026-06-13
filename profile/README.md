@@ -16,12 +16,23 @@ The ecosystem includes a fully standalone desktop app and an optional, powerful 
 * **📺 Casual Users:** Turn your phone into a multimedia remote to control your PC's screen brightness, tone, and volume from the couch.
 * **🎥 Streamers:** Dynamically switch screen color profiles on your main display without leaking settings on stream.
 
+**Windows (standalone — no phone required)**
+
 <p align="center">
-  <img src="../docs/images/vibranceflow-windows-core-main.png" height="220" alt="VibranceFlow Windows App" />
-  <img src="../docs/images/vibranceflow-windows-pair-mobile.png" height="220" alt="VibranceFlow Windows Pairing" />
-  <img src="../docs/images/vibranceflow-android-pair.jpeg" height="220" alt="VibranceFlow Android Pairing" />
-  <img src="../docs/images/vibranceflow-android-remote-control.jpeg" height="220" alt="VibranceFlow Android Remote Control" />
+  <img src="../docs/images/vibranceflow-windows-core-main.png" width="420" alt="VibranceFlow Windows — per-app profiles and sliders" />
+  &nbsp;&nbsp;
+  <img src="../docs/images/vibranceflow-windows-pair-mobile.png" width="420" alt="VibranceFlow Windows — Pair Mobile with QR code" />
 </p>
+
+**Android (optional LAN remote)**
+
+<p align="center">
+  <img src="../docs/images/vibranceflow-android-pair.jpeg" width="280" alt="VibranceFlow Android — connect to your PC" />
+  &nbsp;&nbsp;
+  <img src="../docs/images/vibranceflow-android-remote-control.jpeg" width="280" alt="VibranceFlow Android — remote display and volume" />
+</p>
+
+*Click any screenshot on GitHub to open it full size.*
 
 ---
 
