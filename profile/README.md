@@ -17,8 +17,10 @@ The ecosystem includes a fully standalone desktop app and an optional, powerful 
 * **🎥 Streamers:** Dynamically switch screen color profiles on your main display without leaking settings on stream.
 
 <p align="center">
-  <img src="../docs/images/vibranceflow-windows-core-main.png" width="450" alt="VibranceFlow Core Main Window" />
-  <img src="../docs/images/vibranceflow-android-remote-control.jpeg" width="220" alt="VibranceFlow Android Remote Control" />
+  <img src="../docs/images/vibranceflow-windows-core-main.png" width="280" alt="VibranceFlow Windows App" />
+  <img src="../docs/images/vibranceflow-windows-pair-mobile.png" width="280" alt="VibranceFlow Windows Pairing" />
+  <img src="../docs/images/vibranceflow-android-pair.jpeg" width="130" alt="VibranceFlow Android Pairing" />
+  <img src="../docs/images/vibranceflow-android-remote-control.jpeg" width="130" alt="VibranceFlow Android Remote Control" />
 </p>
 
 ---
@@ -51,6 +53,6 @@ As a project built with a strict security mindset:
 
 To keep this project 100% free and to help us purchase official Developer Code Signing Certificates (to remove antivirus false positives), consider supporting the project:
 
-👉 **[Support on Ko-fi](https://ko-fi.com/fabio_monreal)**
+<a href="https://ko-fi.com/fabio_monreal"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" height="36" /></a>
 
 *Contributions, bug reports, and feature requests are always welcome in their respective repositories!*
