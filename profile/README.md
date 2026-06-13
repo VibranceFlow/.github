@@ -34,6 +34,6 @@ As a project built with a strict security mindset:
 
 To keep this project 100% free and to help us purchase official Developer Code Signing Certificates (to remove antivirus false positives), consider supporting the project:
 
-👉 **[Support on Ko-fi](https://ko-fi.com/fabio_monreal)**
+👉 **[Buy me a coffee ☕](https://ko-fi.com/fabio_monreal)**
 
 *Contributions, bug reports, and feature requests are always welcome in their respective repositories!*
