@@ -3,7 +3,7 @@
 VibranceFlow is your ultimate tool to **automate your screen colors for every game and app**. 
 Designed for gamers, designers, streamers, and casual users, it seamlessly adjusts Digital Vibrance, Gamma, Brightness, and Contrast on Windows. 
 
-The ecosystem includes a fully standalone desktop app and an optional, powerful Android remote control—all built with a Zero-Trust architecture.
+The ecosystem includes a fully standalone desktop app and an optional, powerful Android remote control-all built with a Zero-Trust architecture.
 
 🌐 **[Official Website & Downloads](https://vibranceflow.vercel.app/)**
 
@@ -16,20 +16,20 @@ The ecosystem includes a fully standalone desktop app and an optional, powerful 
 * **📺 Casual Users:** Turn your phone into a multimedia remote to control your PC's screen brightness, tone, and volume from the couch.
 * **🎥 Streamers:** Dynamically switch screen color profiles on your main display without leaking settings on stream.
 
-**Windows (standalone — no phone required)**
+**Windows (standalone - no phone required)**
 
 <p align="center">
-  <img src="../docs/images/vibranceflow-windows-core-main.png" width="420" alt="VibranceFlow Windows — per-app profiles and sliders" />
+  <img src="../docs/images/vibranceflow-windows-core-main.png" width="420" alt="VibranceFlow Windows - per-app profiles and sliders" />
   &nbsp;&nbsp;
-  <img src="../docs/images/vibranceflow-windows-pair-mobile.png" width="420" alt="VibranceFlow Windows — Pair Mobile with QR code" />
+  <img src="../docs/images/vibranceflow-windows-pair-mobile.png" width="420" alt="VibranceFlow Windows - Pair Mobile with QR code" />
 </p>
 
 **Android (optional LAN remote)**
 
 <p align="center">
-  <img src="../docs/images/vibranceflow-android-pair.jpeg" width="280" alt="VibranceFlow Android — connect to your PC" />
+  <img src="../docs/images/vibranceflow-android-pair.jpeg" width="280" alt="VibranceFlow Android - connect to your PC" />
   &nbsp;&nbsp;
-  <img src="../docs/images/vibranceflow-android-remote-control.jpeg" width="280" alt="VibranceFlow Android — remote display and volume" />
+  <img src="../docs/images/vibranceflow-android-remote-control.jpeg" width="280" alt="VibranceFlow Android - remote display and volume" />
 </p>
 
 *Click any screenshot on GitHub to open it full size.*
