@@ -17,10 +17,10 @@ The ecosystem includes a fully standalone desktop app and an optional, powerful 
 * **🎥 Streamers:** Dynamically switch screen color profiles on your main display without leaking settings on stream.
 
 <p align="center">
-  <img src="../docs/images/vibranceflow-windows-core-main.png" width="280" alt="VibranceFlow Windows App" />
-  <img src="../docs/images/vibranceflow-windows-pair-mobile.png" width="280" alt="VibranceFlow Windows Pairing" />
-  <img src="../docs/images/vibranceflow-android-pair.jpeg" width="130" alt="VibranceFlow Android Pairing" />
-  <img src="../docs/images/vibranceflow-android-remote-control.jpeg" width="130" alt="VibranceFlow Android Remote Control" />
+  <img src="../docs/images/vibranceflow-windows-core-main.png" height="220" alt="VibranceFlow Windows App" />
+  <img src="../docs/images/vibranceflow-windows-pair-mobile.png" height="220" alt="VibranceFlow Windows Pairing" />
+  <img src="../docs/images/vibranceflow-android-pair.jpeg" height="220" alt="VibranceFlow Android Pairing" />
+  <img src="../docs/images/vibranceflow-android-remote-control.jpeg" height="220" alt="VibranceFlow Android Remote Control" />
 </p>
 
 ---
