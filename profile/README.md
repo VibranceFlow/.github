@@ -1,8 +1,25 @@
 # 🌊 Welcome to the VibranceFlow Ecosystem
 
-VibranceFlow is a modern, ultra-lightweight, and 100% open-source alternative to vibranceGUI. It is designed to automate and control your PC's display settings (Digital Vibrance, Gamma, Brightness) seamlessly, with a Zero-Trust architecture and a mobile-first remote control experience.
+VibranceFlow is your ultimate tool to **automate your screen colors for every game and app**. 
+Designed for gamers, designers, streamers, and casual users, it seamlessly adjusts Digital Vibrance, Gamma, Brightness, and Contrast on Windows. 
+
+The ecosystem includes a fully standalone desktop app and an optional, powerful Android remote control—all built with a Zero-Trust architecture.
 
 🌐 **[Official Website & Downloads](https://vibranceflow.vercel.app/)**
+
+---
+
+### 🎯 Who is this for?
+
+* **🎮 Gamers:** Adjust contrast and gamma *in-game*. Control background music volume (Spotify, Discord) remotely without ever Alt-Tabbing.
+* **🎨 Designers & Editors:** Easily alter saturation and contrast to test visual accessibility across different spectrums.
+* **📺 Casual Users:** Turn your phone into a multimedia remote to control your PC's screen brightness, tone, and volume from the couch.
+* **🎥 Streamers:** Dynamically switch screen color profiles on your main display without leaking settings on stream.
+
+<p align="center">
+  <img src="../docs/images/vibranceflow-windows-core-main.png" width="450" alt="VibranceFlow Core Main Window" />
+  <img src="../docs/images/vibranceflow-android-remote-control.jpeg" width="220" alt="VibranceFlow Android Remote Control" />
+</p>
 
 ---
 
@@ -14,7 +31,7 @@ The VibranceFlow architecture is split into three main modules:
   The heart of the application for Windows. Handles background process monitoring and native Win32/NVAPI display calls with 0% CPU usage. Hosts the local WebSocket server.
   
 * 📱 **[VibranceFlow-mobile](https://github.com/VibranceFlow/VibranceFlow-mobile)**
-  The companion app for Android/iOS. Pairs via a local QR Code to control your PC's display settings on the fly without ever alt-tabbing out of your games.
+  The optional companion app for Android. Pairs via a local QR Code to remotely control your PC's display settings and audio on the fly.
 
 * 🕸️ **[VibranceFlow-web](https://github.com/VibranceFlow/VibranceFlow-web)**
   The official landing page, built with Astro and Tailwind CSS for maximum speed and SEO performance.
