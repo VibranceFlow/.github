@@ -2,7 +2,7 @@
 
 VibranceFlow is a modern, ultra-lightweight, and 100% open-source alternative to vibranceGUI. It is designed to automate and control your PC's display settings (Digital Vibrance, Gamma, Brightness) seamlessly, with a Zero-Trust architecture and a mobile-first remote control experience.
 
-🌐 **[Official Website & Downloads](https://vibranceflow.vercel.app/)**
+🌐 **[Official Website & Downloads](https://vibranceflow.vercel.app/)** · Latest release: **v1.1.0** (Windows `.exe` + 5 Android APKs)
 
 ---
 
